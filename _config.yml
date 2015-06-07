@@ -29,4 +29,4 @@ rss_path: feed.xml
 categories_path: category.html
 tags_path: tag.html
 
-BASE_PATH: 
+BASE_PATH: /hg0088
